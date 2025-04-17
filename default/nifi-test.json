@@ -37,7 +37,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "087009f4-d68d-3e52-b7ce-c12b88854c1a",
-        "name" : "GetFile",
+        "name" : "get_file_from_local",
         "type" : "PROCESSOR"
       },
       "zIndex" : 0
@@ -172,7 +172,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "087009f4-d68d-3e52-b7ce-c12b88854c1a",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "GetFile",
+      "name" : "get_file_from_local",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -304.0,
