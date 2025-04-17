@@ -20,7 +20,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "2c9ef1d4-141f-3593-a7c7-912e49f9d0c9",
-        "name" : "PutFile",
+        "name" : "put_file_in_local",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -55,7 +55,7 @@
     "inputPorts" : [ ],
     "labels" : [ ],
     "maxConcurrentTasks" : 1,
-    "name" : "nifi-test",
+    "name" : "nifi-group",
     "outputPorts" : [ ],
     "position" : {
       "x" : 0.0,
@@ -78,7 +78,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "2c9ef1d4-141f-3593-a7c7-912e49f9d0c9",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "PutFile",
+      "name" : "put_file_in_local",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : 208.0,
