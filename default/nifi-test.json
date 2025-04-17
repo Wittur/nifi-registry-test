@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1744888377284,
+    "description" : "only git",
+    "identifier" : "nifi-test",
+    "lastModifiedTimestamp" : 1744888377284,
+    "name" : "nifi-test",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
